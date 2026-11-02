@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/can_ids_starter.egg-info/PKG-INFO
+src/can_ids_starter.egg-info/SOURCES.txt
+src/can_ids_starter.egg-info/dependency_links.txt
+src/can_ids_starter.egg-info/entry_points.txt
+src/can_ids_starter.egg-info/requires.txt
+src/can_ids_starter.egg-info/top_level.txt
+src/canids/__init__.py
+src/canids/cli.py
+src/canids/eda.py
+src/canids/experiment.py
+src/canids/features.py
+src/canids/io.py
+tests/test_features.py
+tests/test_io.py

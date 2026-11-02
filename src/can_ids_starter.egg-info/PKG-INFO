@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: can-ids-starter
+Version: 0.1.0
+Summary: Learning-oriented, reproducible CAN intrusion detection baselines
+Requires-Python: >=3.11
+Requires-Dist: numpy<3,>=1.26
+Requires-Dist: pandas<3,>=2.1
+Requires-Dist: matplotlib<4,>=3.8
+Requires-Dist: scikit-learn<2,>=1.4
+Requires-Dist: joblib<2,>=1.3

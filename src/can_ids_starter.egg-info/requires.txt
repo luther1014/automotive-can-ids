@@ -1,0 +1,5 @@
+numpy<3,>=1.26
+pandas<3,>=2.1
+matplotlib<4,>=3.8
+scikit-learn<2,>=1.4
+joblib<2,>=1.3
